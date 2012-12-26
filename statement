@@ -17,5 +17,77 @@ would pay off.  In debugging problems with a garbage collector,
 one is often debugging the problem well after the ultimate
 cause, and with little evidence.  Up front effort in design,
 documentation, and ultimately capturing user requirements, was
-always saved by avoiding those long nights poring over
+always worth the saving in avoiding those long nights poring over
 hex-dumps.
+
+Making software has always been a collaborative effort,
+involving liaison with various groups, sometimes within a
+company (internal customers), often with a second party
+(contracting, clients), and sometimes with third parties
+(sub-contracting, partners, and so on).  In these collaborations
+David has held various rôles from support to architect.
+
+David's can presentation proposals, lead discussions, summarise,
+pitch, demonstrate, inform, and cajole, using a variety of media from
+business cards and napkins, to telephone calls, flipcharts, and slides
+made with OmniGraffle and InkScape.  David has presented at work
+to colleagues, clients and potential clients, partners, but also
+enjoys presenting at conferences such as EuroPython and UKUUG, and
+community groups such as PySheff, PyNW, and CamPUG (Sheffield,
+Manchester, and Cambridge respectively).
+
+In 2008 David joined the Climate Change blog wars by collaborating
+with colleague Nick Barnes on a fully open source project to reimplement
+NASA's GISTEMP dataset which is a reconstruction of Earth's
+historical global temperature record from surface temperature
+observations (weather stations).  The project is called
+ccc-gistemp and stemmed from a desire to use our many years'
+worth of accumulated skills in software and software engineering
+to bring some benefit to climate science and to clarify some
+aspects of the public debate.  ccc-gistemp reimplements NASA's
+program of a few thousand lines of Fortran, C, shell, and Python
+entirely in Python.  The result is smaller, clearer, and more
+flexible.  This work has been presented at conferences, and has
+resulted so far in one peer-reviewed publication [BARNESJONES2011],
+and a number of collaborations with scientists.  All of the work
+on ccc-gistemp has been provided pro bono without fee.  The
+project can be viewed at https://code.google.com/p/ccc-gistemp/;
+it is often the subject of blog posts at http://climatecode.org/.
+
+The success of ccc-gistemp encouraged David to found the non-profit
+Climate Code Foundation, along with Nick Barnes and Philippa Davey.
+The funding profile of The Foundation has not stopped David
+from getting a job in industry, but one of the activities of The
+Foundation has been participating in Google's Summer of Code program.
+David has written the pitches (The Foundation needs to apply each
+year), administered this participation, and has mentored one of the
+students (and co-mentored others).  The Foundation has mentored 5
+students (a mixture of graduates and undergraduates) over two years.
+
+David maintains a personal blog (http://drj11.wordpress.com/),
+co-writes The Foundation blog (http://climatecode.org/), helps maintain
+ScraperWiki's blog (current employer, http://blog.scraperwiki.com),
+and occasionally guest writes for other blogs such as Open
+Knowledge Foundation.  Some of this writing is quite technical,
+some whimsical, and some scientific.  Most is self-proofed
+and edited, but some is edited in collaboration with others.
+
+David's current job is First Engineer for the Silicon
+Valley-style startup ScraperWiki based in the Northwest of
+England.  He is responsible for all engineering requirements,
+implementation, and performance, and works in a small team of 3
+people (currently 7 people in the entire company).  In such a
+small company everyone does a bit of everything, and we have to
+learn how to do new things.  David has built websites,
+programmed servers in Python, node.js, CoffeeScript, done
+customer discovery, experimented with UX designed, and
+of-course been instrumental in implementing the industriy's
+latest software engineering fad, Agile.
+
+
+REFERENCES
+
+[BARNESJONES2011]
+"Clear Climate Code: Rewriting Legacy Science Software for
+Clarity"; N Barnes, D Jones; Software, IEEE; Volume 28, Issue 6;
+2011-11
