@@ -1,3 +1,21 @@
 David is passionate about software, software engineering, and
 addressing the problem of how the software sector can improve
 the quality of science research.
+
+Since gaining an undergraduate degree in maths and a
+postgraduate Diploma in Computer Science from University of Cambridge,
+David has worked in a variety of commercial software companies.
+The work has been varied, ranging from writing real-time garbage
+collectors, through to 3D video games, robots, programming language
+implementation, information retrieval, and most recently
+collaborative web-based programming tools.
+
+David was fortunate that his first job, writing garbage
+collectors for a dynamic object oriented programming language,
+made it crystal clear that commitment to software engineering
+would pay off.  In debugging problems with a garbage collector,
+one is often debugging the problem well after the ultimate
+cause, and with little evidence.  Up front effort in design,
+documentation, and ultimately capturing user requirements, was
+always saved by avoiding those long nights poring over
+hex-dumps.
