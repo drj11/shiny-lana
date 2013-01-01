@@ -82,6 +82,7 @@ Case study example: "Loving Old Versions of Python", EuroPython
 
 ---
 
+## FRAMED BIOGRAPHY ##
 
 Since gaining an undergraduate degree in maths and a
 postgraduate Diploma in Computer Science from University of Cambridge,
@@ -91,15 +92,14 @@ collectors, through to 3D video games, robots, programming language
 implementation, information retrieval, and most recently
 collaborative web-based programming tools.
 
-David was fortunate that his first job, writing garbage
-collectors for a dynamic object oriented programming language,
-made it crystal clear that commitment to software engineering
-would pay off.  In debugging problems with a garbage collector,
-one is often debugging the problem well after the ultimate
-cause, and with little evidence.  Up front effort in design,
-documentation, and ultimately capturing user requirements, was
-always worth the saving in avoiding those long nights poring over
-hex-dumps.
+David was fortunate that his first job, writing garbage collectors for
+a dynamic object oriented programming language, made it crystal clear
+that commitment to software engineering would pay off.  In debugging
+problems with a garbage collector, one is often debugging the problem
+well after the ultimate cause, and with little evidence.  In making
+truly reliable software he found the weapons of design, documentation,
+and user requirements management to be invaluable.  It certainly beats
+long nights poring over hex-dumps.
 
 Making software has always been a collaborative effort,
 involving liaison with various groups, sometimes within a
@@ -108,23 +108,29 @@ company (internal customers), often with a second party
 (sub-contracting, partners, and so on).  In these collaborations
 David has held various rôles from support to architect.
 
-In 2008 David joined the Climate Change blog wars by collaborating
-with colleague Nick Barnes on a fully open source project to reimplement
-NASA's GISTEMP dataset which is a reconstruction of Earth's
-historical global temperature record from surface temperature
-observations (weather stations).  The project is called
-ccc-gistemp and stemmed from a desire to use our many years'
-worth of accumulated skills in software and software engineering
-to bring some benefit to climate science and to clarify some
-aspects of the public debate.  ccc-gistemp reimplements NASA's
-program of a few thousand lines of Fortran, C, shell, and Python
-entirely in Python.  The result is smaller, clearer, and more
-flexible.  This work has been presented at conferences, and has
-resulted so far in one peer-reviewed publication [BARNESJONES2011],
-and a number of collaborations with scientists.  All of the work
-on ccc-gistemp has been provided pro bono without fee.  The
-project can be viewed at https://code.google.com/p/ccc-gistemp/;
-it is often the subject of blog posts at http://climatecode.org/.
+In 2008 David joined the Climate Change blog wars.  NASA had
+recently published the source code to their GISTEMP dataset,
+which is a reconstruction of Earth's historical global temperature
+record from surface temperature observations (weather stations).
+Certain aspects of the public debate began to cast doubt on
+the clarity, and therefore the correctness, of NASA's source code.
+Seizing this opportunity to use many accumulated years' worth of
+skills in software to bring benefit to climate science, David
+joined forces with colleague Nick Barnes to create ccc-gistemp.
+This collaboration is a fully open source project to reimplement
+NASA's GISTEMP algorithm with identical results.  Since it began,
+the project has attracted some contributions from other people.
+ccc-gistemp reimplements in Python NASA's program of a few thousand
+lines of Fortran, C, shell, and Python.  Python was chosen
+for its clarity and ability to communicate to non-programmers.
+The result is smaller and clearer, and has helped to eliminate some
+confusion in the public debate.  This work has been presented at
+conferences, and has resulted so far in one peer-reviewed publication
+[BARNESJONES2011], and a number of collaborations with scientists
+(including [HAUSFATHERETAL2012]).  All of the work on ccc-gistemp
+has been provided pro bono without fee.  The project can be viewed
+at https://code.google.com/p/ccc-gistemp/; it is often the subject
+of blog posts at http://climatecode.org/.
 
 The success of ccc-gistemp encouraged David to found the non-profit
 Climate Code Foundation, along with Nick Barnes and Philippa Davey.
@@ -157,3 +163,10 @@ REFERENCES
 "Clear Climate Code: Rewriting Legacy Science Software for
 Clarity"; N Barnes, D Jones; Software, IEEE; Volume 28, Issue 6;
 2011-11
+
+[HAUSFATHERETAL2012]
+"Quantifying the Effect of Urbanization on U.S. Historical
+Climatology Network Temperature Records"; Zeke Hausfather,
+Matthew Menne, Claude Williams Jr., Troy Masters, Ronald
+Broberg, David Jones; Journal of Geophysical Research
+Atmospheres; (accepted and in-press)
