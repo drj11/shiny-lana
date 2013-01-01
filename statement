@@ -132,9 +132,9 @@ and has helped to eliminate some confusion in the public debate.
 ccc-gistemp has been presented at conferences, and has resulted so far
 in one peer-reviewed publication [BARNESJONES2011], and a number of
 collaborations with scientists (including [HAUSFATHERETAL2012]).  All
-of the work on ccc-gistemp has been provided pro bono without fee.
-The project can be viewed at https://code.google.com/p/ccc-gistemp/;
-it is often the subject of blog posts at http://climatecode.org/.
+of the work on ccc-gistemp has been pro bono.  The project can be viewed
+at https://code.google.com/p/ccc-gistemp/; it is often the subject of
+blog posts at http://climatecode.org/.
 
 The success of ccc-gistemp encouraged David and Nick to found the
 non-profit Climate Code Foundation, along with Philippa Davey.
@@ -153,17 +153,16 @@ David's current job is First Engineer for the Silicon Valley-style
 startup ScraperWiki based in the Northwest of England.  He is
 responsible for all engineering requirements, implementation,
 and performance.  There are about 7 people in the entire company
-and about 3 of those comprise the engineering team, which is largely
-self-managing, for which David is thankful.  In such a small company
-everyone does a bit of everything, and we have to learn how to do
-new things.  David has built websites, programmed servers in Python,
-node.js, CoffeeScript, done customer discovery, experimented with
-UX design (under the careful oversight of ScraperWiki's actual
-UX designer), and of-course been instrumental in implementing the
-industry's latest software engineering fad, Agile.  Most of the
-engineering activities are planned in two-week iterations and
-are pair programmed (or pair-estimated, pair-written, and so on,
-according to the task).
+and about 3 of those comprise the engineering team, which is
+largely self-managing.  In such a small company everyone does
+a bit of everything, and has to learn how to do new things.
+David has built websites, programmed servers in Python, node.js,
+CoffeeScript, done customer discovery, experimented with UX design
+(under the careful oversight of ScraperWiki's actual UX designer),
+and of course been instrumental in implementing the industry's
+latest software engineering fad, Agile.  Most of the engineering
+activities are planned in two-week iterations and are pair programmed
+(or pair-estimated, pair-written, and so on, according to the task).
 
 
 ## REFERENCES ##
