@@ -1,6 +1,6 @@
 ## SUPPORTING STATEMENT ##
 
-Science researchers have not been trained and given the
+Science researchers have not been trained in the
 computing skills that will help them make the greatest advances
 in science.  Science is suffering as a result, and we should do
 something about it.
@@ -22,13 +22,14 @@ Communicating software results has often been a part of David's
 activities: he has written case studies, website content, and
 promoted best practice, in both a professional context and a
 personal one.  David has presented work to clients, internally
-within a company, and externally at conferences.  David's
-writings are sometimes entirely solo efforts, but mostly involve
-at least some collaboration at the concept, content, or
-editorial level.  David is confident in communicating a variety
-of messages in a variety of media.  David tweets (@drjtwit), and
-has experimented with automated science communication using
-Twitter (@isithotornot, currently dormant).
+within a company, and externally at conferences (a typical
+example would be "Embedded Programming with Python", PyCon UK 2008).
+
+David's writings are sometimes entirely solo efforts, but mostly involve
+at least some collaboration at the concept, content, or editorial level.
+David is confident in communicating a variety of messages in a variety
+of media.  David tweets (@drjtwit), and has experimented with automated
+science communication using Twitter (@isithotornot, currently dormant).
 
 David can present proposals, lead discussions, summarise, pitch,
 demonstrate, inform, and cajole, using a variety of media from
@@ -39,17 +40,20 @@ partners; he also enjoys presenting at conferences such as EuroPython
 and UKUUG, and community groups such as PySheff, PyNorthwest,
 and CamPUG (Sheffield, Manchester, and Cambridge respectively).
 
+So far for 2013 David is expecting to teach CoffeeScript and POSIX
+shell at the FLOSS UK conference in March, and present a case-study
+from his work at ScraperWiki at the same conference.  David has a
+provisional engagement volunteering to teach shell at the Software
+Carpentry Bootcamp at the University of Manchester in April.
+
 David maintains a personal blog (http://drj11.wordpress.com/),
 co-writes The Foundation blog (http://climatecode.org/), helps maintain
 ScraperWiki's blog (current employer, http://blog.scraperwiki.com),
 and occasionally guest writes for other blogs such as Open
 Knowledge Foundation.  Some of this writing is quite technical,
 some whimsical, and some scientific.  Most is self-proofed
-and edited, but some is edited in collaboration with others.
-
-So far for 2013 David is expecting to teach CoffeeScript and
-POSIX shell at the FLOSS UK conference in March, and present a
-case-study from his work at ScraperWiki.
+and edited, but David prefers to work in collaboration with
+others and arranges that where possible.
 
 David has administered a student intern programme at the
 non-profit Climate Code Foundation, and mentored students in
@@ -77,10 +81,6 @@ to building upon this work and developing it further,
 particularly in a more formal context (such as conferences and
 papers).
 
-Case study example: "Loving Old Versions of Python", EuroPython
-2009; "Embedded Programming with Python", PyCon UK 2008.
-
----
 
 ## FRAMED BIOGRAPHY ##
 
@@ -115,49 +115,55 @@ record from surface temperature observations (weather stations).
 Certain aspects of the public debate began to cast doubt on
 the clarity, and therefore the correctness, of NASA's source code.
 Seizing this opportunity to use many accumulated years' worth of
-skills in software to bring benefit to climate science, David
-joined forces with colleague Nick Barnes to create ccc-gistemp.
-This collaboration is a fully open source project to reimplement
-NASA's GISTEMP algorithm with identical results.  Since it began,
-the project has attracted some contributions from other people.
-ccc-gistemp reimplements in Python NASA's program of a few thousand
-lines of Fortran, C, shell, and Python.  Python was chosen
-for its clarity and ability to communicate to non-programmers.
-The result is smaller and clearer, and has helped to eliminate some
-confusion in the public debate.  This work has been presented at
-conferences, and has resulted so far in one peer-reviewed publication
-[BARNESJONES2011], and a number of collaborations with scientists
-(including [HAUSFATHERETAL2012]).  All of the work on ccc-gistemp
-has been provided pro bono without fee.  The project can be viewed
-at https://code.google.com/p/ccc-gistemp/; it is often the subject
-of blog posts at http://climatecode.org/.
+skills in software to bring benefit to climate science and to
+clarify the public debate, David joined forces with colleague
+Nick Barnes to create ccc-gistemp.  This collaboration is a fully
+open source project to reimplement NASA's GISTEMP algorithm with
+identical results.  Since it began, the project has attracted
+some contributions from other people.  ccc-gistemp reimplements
+in Python NASA's program of a few thousand lines of Fortran, C,
+shell, and Python.  Python was chosen for its clarity and ability to
+communicate to non-programmers.  The result is smaller and clearer,
+and has helped to eliminate some confusion in the public debate.
 
-The success of ccc-gistemp encouraged David to found the non-profit
-Climate Code Foundation, along with Nick Barnes and Philippa Davey.
-The funding profile of The Foundation has not stopped David
-from getting a job in industry, but one of the activities of The
-Foundation has been participating in Google's Summer of Code program.
-David has written the pitches (The Foundation needs to apply each
-year), administered this participation, and has mentored one of the
-students (and co-mentored others).  The Foundation has mentored 5
-students (a mixture of graduates and undergraduates) over two years,
-all of whom successfully completed the programme.
+ccc-gistemp has been presented at conferences, and has resulted so far
+in one peer-reviewed publication [BARNESJONES2011], and a number of
+collaborations with scientists (including [HAUSFATHERETAL2012]).  All
+of the work on ccc-gistemp has been provided pro bono without fee.
+The project can be viewed at https://code.google.com/p/ccc-gistemp/;
+it is often the subject of blog posts at http://climatecode.org/.
 
-David's current job is First Engineer for the Silicon
-Valley-style startup ScraperWiki based in the Northwest of
-England.  He is responsible for all engineering requirements,
-implementation, and performance, and works in a small team of 3
-people (currently 7 people in the entire company).  In such a
-small company everyone does a bit of everything, and we have to
-learn how to do new things.  David has built websites,
-programmed servers in Python, node.js, CoffeeScript, done
-customer discovery, experimented with UX design (under the
-careful oversight of ScraperWiki's actual UX designer), and
-of-course been instrumental in implementing the industry's
-latest software engineering fad, Agile.
+The success of ccc-gistemp encouraged David and Nick to found the
+non-profit Climate Code Foundation, along with Philippa Davey.
+The Foundation's activities have been limited by lack of funding,
+but one of the activities of The Foundation has been participating in
+Google's Summer of Code program.  David has written the pitches (The
+Foundation has to apply each year), administered this participation,
+and has mentored one of the students (and co-mentored others).
+In total The Foundation has mentored 5 students (a mixture
+of graduates and undergraduates) over two years, all of whom
+successfully completed the programme.  The Foundation has given
+David a credible platform from which to reach out to the (mostly
+climate) science community in the UK and internationally.
+
+David's current job is First Engineer for the Silicon Valley-style
+startup ScraperWiki based in the Northwest of England.  He is
+responsible for all engineering requirements, implementation,
+and performance.  There are about 7 people in the entire company
+and about 3 of those comprise the engineering team, which is largely
+self-managing, for which David is thankful.  In such a small company
+everyone does a bit of everything, and we have to learn how to do
+new things.  David has built websites, programmed servers in Python,
+node.js, CoffeeScript, done customer discovery, experimented with
+UX design (under the careful oversight of ScraperWiki's actual
+UX designer), and of-course been instrumental in implementing the
+industry's latest software engineering fad, Agile.  Most of the
+engineering activities are planned in two-week iterations and
+are pair programmed (or pair-estimated, pair-written, and so on,
+according to the task).
 
 
-REFERENCES
+## REFERENCES ##
 
 [BARNESJONES2011]
 "Clear Climate Code: Rewriting Legacy Science Software for
